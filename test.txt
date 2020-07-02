@@ -4,3 +4,4 @@ frog
 tree
 snake
 rabbit
+monkey
