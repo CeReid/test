@@ -3,3 +3,4 @@ dog
 frog
 tree
 snake
+rabbit
